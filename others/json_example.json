@@ -1,0 +1,79 @@
+{
+    "Nombre de materia/s o proyecto/s": ["Ciencia de datos"],
+    "Objetivos": "entender a fondo los algoritmos empleados en ciencia de datos para la exploración y descubrimiento de insights en distintos modelos de negocio",
+    "Plan de Estudio": {},
+    "sesiones": [
+        {
+            "día": "19/04/22",
+            "rondas": [
+                {
+                    "duracion": "180 min",
+                    "objetivos": [
+                        "Bocetar el programa de capacitación (con gráfico)",
+                        "Terminar un módulo de Devops Arquitecto",
+                        "Crear proyecto Ionic react y subirlo a Github para prueba de bloop o autogpt",
+                        "Control de gastos",
+                        "Control de hábitos",
+                        "Prueba de IA text to speach y spech to text",
+                        "impiar la casa",
+                        "Hacer Ejercicio",
+                        "30 minutos de ingles"
+                    ],
+                    "resultado": [
+                        "Encontré la integración de clickup con Notions, Falló y envié un email para ayuda",
+                        "Abrí este diario y me pregunto si ¿se podrá integrar con chatgpt vía api para hábitos?",
+                        "Ver video de programación Dalto (sacar dato de la empresa)",
+                        "Video de autogpt"
+                    ],
+                    "acciones": [
+                        "Investigar como funciona la integración de notion.",
+                        "Seguimiento de ticket creado a  notion para la integración de clickup"
+                    ],
+                    "puntuacion_de_avance": 7,
+                    "puntuacion_de_satisfaccion": 9,
+                    "descanso": None
+                }
+            ]
+        },
+        {
+            "día": "20/05/22",
+            "rondas": [
+                {
+                    "duracion": "55 min",
+                    "objetivos": [
+                        "Encontrar Formado de lectura",
+                        "POC básica"
+                    ],
+                    "resultado": [
+                        "Hay una forma de encontrar el bloque que se busca con el formato de tabla, pero es hacienco scraping de la ,página",
+                        "Se arma un formato simple de las entradas del diario"
+                    ],
+                    "acciones": [
+                        "Dejar pregunta en slack",
+                        "Hacer prueba armar un formato simple de entradas de diario"
+                    ],
+                    "puntuacion_de_avance": 7,
+                    "puntuacion_de_satisfaccion": 8,
+                    "descanso": "30 min"
+                },
+                {
+                    "duracion": "1 h, 54 min",
+                    "objetivos": [
+                        "Bocetar prompt para chatgpt"
+                    ],
+                    "resultado": [
+                        "Mejora en la librería para extracción de información de notion",
+                        "Borrador de formato json de entrada para chatgpt"
+                    ],
+                    "acciones": [
+                        "Continuar con lo mismo hasta tener una clase generadora de prompts lo suficientemente flexible"
+                    ],
+                    "puntuacion_de_avance": 8,
+                    "puntuacion_de_satisfaccion": 9,
+                    "descanso": "3 horas"
+                }
+            ]
+        }
+
+    ]
+}
